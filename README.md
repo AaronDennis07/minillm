@@ -168,12 +168,7 @@ Because the model is trained on a relatively small dataset for a limited number 
 
 The accompanying Dev.to article explains the architecture, training pipeline, attention mechanism, tokenization, sampling, and generation process in more detail.
 
-Repository:
-
 ```text
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
+https://dev.to/s_aarondennis_29b8169de9/demystifying-llms-building-a-124m-parameter-decoder-only-transformer-in-pytorch-5fn1
 ```
 
-## License
-
-Add the license you want to use for this project before publishing it publicly.
